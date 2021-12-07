@@ -15,7 +15,7 @@ body{
 }
 
 .bg{
-    background: url('https://picsum.photos/640/360') no-repeat center center/cover;
+    background: url('https://placekitten.com/200/287') no-repeat center center/cover;
     position: absolute;
     top: -30px;
     left: -30px;
